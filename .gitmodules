@@ -1,0 +1,6 @@
+[submodule "kyopro-tessoku"]
+	path = kyopro-tessoku
+	url = https://github.com/E869120/kyopro-tessoku.git
+[submodule "official"]
+	path = official
+	url = https://github.com/E869120/kyopro-tessoku.git

@@ -1,0 +1,4 @@
+rust 1.86.0
+golangci-lint 2.1.6
+golang 1.24.3
+uv 0.7.3
